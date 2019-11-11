@@ -1,4 +1,4 @@
-# namegator
+# NameGator
 
 ## Project setup
 ```
